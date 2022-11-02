@@ -10,3 +10,7 @@ npx tailwindcss init -p
 # run the project
 npm run start
 
+# create react router
+insttal react router dom
+npm install react-router-dom@6
+
